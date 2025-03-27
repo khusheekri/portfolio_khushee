@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "role": "Backend developer",
+    "organisation": "GeeksforGeeks, KIIT Chapter",
+    "startDate": "Jan, 2024",
+    
+    "experiences": [
+      "Successfully designed and created the backend infrastructure.",
+      "Developed and deployed RESTful APIs."
+    ],
+    "imageSrc": "company/Gfg.png"
+  },
+  {
+    "id": 2,
+    "role": "Web Developer",
+    "organisation": "Web Developer",
+    "startDate": "Jan, 2024",
+  
+    
+    "experiences": [
+      "Utilized Bootstrap to create a responsive and visually appealing user interface.",
+      "Composed the frontend of the e-comm."
+      
+    ],
+    "imageSrc": "company/kodessa.jpg"
+  },
+  {
+    "id": 3,
+    "role": "Contributer",
+    "organisation": "GirlScript Summer Of Code",
+    "startDate": "Mar, 2024",
+   
+    "experiences": [
+      "Played a pivotal role in executing over 10 diverse web development projects,"
+      
+    ],
+    "imageSrc": "company/gssoc.jpg"
+  }
+]

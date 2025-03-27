@@ -1,0 +1,26 @@
+[
+  {
+    "key": 1,
+    "title": "Chess Backend",
+    "imageSrc": "/project/chess.png",
+    "description": "Composed the backend for a chess application using Node.js, Express.js, and WebSockets.",
+    
+    "source": "https://github.com/khusheekri/Chess-Backend"
+  },
+  {
+    "key": 2,
+    "title": "Cloudinary",
+    "imageSrc": "/project/cloudinary.png",
+    "description": "Implemented and optimized Cloudinary for efficient media managemen",
+   
+    "source": "https://gfgkiit.in/"
+  },
+  {
+    "key": 3,
+    "title": "Sudoku",
+    "imageSrc": "/project/sudoku.jpg",
+    "description": "Improved a Sudoku solver using AI techniques, DSA and improved solving efficiency."
+   
+  }
+  
+]
